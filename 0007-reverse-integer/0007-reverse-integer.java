@@ -7,10 +7,10 @@ class Solution {
 
             int digit = x % 10;
             x /= 10;
-
+            int y=(int)Math.pow(2,31)/10;
             // Check overflow using constraints
-            if (rev > (int)Math.pow(2, 31) / 10 ||
-               rev < -(int)Math.pow(2, 31) / 10) {
+            if (rev > y ||
+               rev < -y) {
                 return 0;
             }
 
