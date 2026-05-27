@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0283-move-zeroes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0001-two-sum) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0283-move-zeroes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0015-3sum) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
