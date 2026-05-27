@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
