@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0283-move-zeroes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0001-two-sum) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
