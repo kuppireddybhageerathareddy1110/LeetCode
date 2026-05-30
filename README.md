@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
