@@ -1,29 +1,25 @@
+from collections import deque
+
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        n = len(nums)
+        dq = deque()   # stores indices
         result = []
 
-        # Manual deque using list
-        dq = [0] * n
-        front = 0
-        rear = -1
+        for i in range(len(nums)):
 
-        for i in range(n):
+            # Remove indices outside the window
+            while dq and dq[0] <= i - k:
+                dq.popleft()
 
-            # Remove indices outside current window
-            if front <= rear and dq[front] <= i - k:
-                front += 1
-
-            # Remove smaller elements from rear
-            while front <= rear and nums[dq[rear]] < nums[i]:
-                rear -= 1
+            # Remove smaller elements from back
+            while dq and nums[dq[-1]] < nums[i]:
+                dq.pop()
 
             # Add current index
-            rear += 1
-            dq[rear] = i
+            dq.append(i)
 
-            # Add maximum to result
+            # Add max to result once window is complete
             if i >= k - 1:
-                result.append(nums[dq[front]])
+                result.append(nums[dq[0]])
 
         return result
