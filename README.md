@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0007-reverse-integer) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
