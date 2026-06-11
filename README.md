@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0069-sqrtx) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0704-binary-search) |
