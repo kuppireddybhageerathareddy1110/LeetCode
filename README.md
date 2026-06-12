@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0069-sqrtx) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
@@ -153,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
