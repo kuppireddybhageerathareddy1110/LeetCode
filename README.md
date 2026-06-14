@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
