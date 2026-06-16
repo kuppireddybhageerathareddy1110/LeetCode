@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0901-online-stock-span) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
