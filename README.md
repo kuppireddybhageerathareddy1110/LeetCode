@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0133-clone-graph) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0133-clone-graph) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0133-clone-graph) |
 | [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
