@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0735-asteroid-collision) |
 | [3612-process-string-with-special-operations-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Graph Theory
 |  |
 | ------- |
