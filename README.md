@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0735-asteroid-collision) |
 | [3612-process-string-with-special-operations-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Graph Theory
 |  |
