@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
