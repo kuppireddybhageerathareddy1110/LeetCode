@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0227-basic-calculator-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0739-daily-temperatures) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
