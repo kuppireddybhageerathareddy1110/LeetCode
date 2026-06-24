@@ -195,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0133-clone-graph) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0394-decode-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
