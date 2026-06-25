@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/kuppireddybhageerathareddy1110/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
